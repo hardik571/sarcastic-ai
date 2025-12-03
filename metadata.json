@@ -1,0 +1,7 @@
+{
+  "name": "Zentra - Hinglish AI Companion",
+  "description": "A next-gen Hinglish romantic and savage AI companion. Features vibe-matching, chat advice, and a lightweight interface powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
